@@ -26,6 +26,8 @@ h6,
     color: black;
     border: #007bff;
     text-decoration: line-through;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 
