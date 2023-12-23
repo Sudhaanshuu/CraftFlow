@@ -411,7 +411,7 @@ h6,
 
 @media (max-width: 991px) {
     #hero {
-        height: calc(70vh - 72px);
+        height: calc(77vh - 72px);
     }
     #hero .animated {
         -webkit-animation: none;
