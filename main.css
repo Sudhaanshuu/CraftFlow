@@ -753,6 +753,10 @@ section {
     background: #343a40;
     position: relative;
     overflow: hidden;
+    /* min-width: 25rem;
+    min-height: 25rem;
+    max-width: 125rem;
+    max-height: 125rem; */
 }
 
 .team .member .member-info {
